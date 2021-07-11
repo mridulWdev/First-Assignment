@@ -23,7 +23,9 @@ h4{
 
 .flexible-container{
     display: flex;
-    margin-bottom: 100px; }
+    margin-bottom: 100px;
+       
+}
 
 .half-width{
     width: 50%;
@@ -55,24 +57,29 @@ h4{
 .Middle-banner{
     background-image: url(images/shapes/7.png);
     background-repeat: no-repeat;
+    width: 100%;
+    
+    
     
 }
 
 .Second-half-width img{
-    width: 50%;
-    padding-left: 30%;
+    width: 82%;
+    margin-left: 40%;
 }
 
 .Second-half-width{
     width: 50%;
-    padding-right: 10%;
+    padding-right: 20%;
     padding-top: 5%;
+    padding-bottom: 2%;
 }
 
 .my-recipe{
     text-align: center;
     width: 50%;
     padding-left: 25%;
+    padding-right: 25%;
     padding-bottom: 5%;
 }
 
