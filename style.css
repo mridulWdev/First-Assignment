@@ -4,7 +4,7 @@ body{
 }
 
 h1{
-    font-size: 50px;
+    font-size: 40px;
     color: gray;
 }
 
@@ -12,6 +12,9 @@ p{
     color: gray;
 }
 
+h4{
+    color: white;
+}
 .orange-color{
     color: orange;
 }
@@ -31,6 +34,7 @@ p{
 .half-width img{
     width: 90%;
     margin-left: 20px;
+    
 }
 
 
@@ -112,6 +116,14 @@ p{
 .Dribble-social{
     padding-left: 10%;
     padding-right: 10%;
+}
+
+.food-end{
+    background-color: black;
+    text-align: center;
+    padding-top: 2px;
+    padding-bottom: 5%;
+    
 }
 
 
